@@ -80,16 +80,6 @@ div.campo > i {
     padding: 5px;
 }
 
-div.campo > input {
-    background-color: #5fd1cd;
-    font-size: 1em;
-    width: calc(99% - 43px);
-    height: 100%;
-    transform: translateY(-11px);
-    border: 0px;
-    border-radius: 8px;
-    padding: 4px;
-}
 
 div.campo > input:focus-within {
     background-color: #fff;
